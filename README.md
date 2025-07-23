@@ -1,2 +1,2 @@
 # project2
-welcome to my github 
+welcome to my github
